@@ -2,5 +2,6 @@
   "name": "alice-gemini-webhook",
   "version": "1.0.0",
   "description": "Alice webhook with Gemini AI",
-  "private": true
+  "private": true,
+  "main": "api/index.js"
 }
