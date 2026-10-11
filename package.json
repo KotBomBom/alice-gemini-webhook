@@ -1,1 +1,6 @@
-{"name":"alice-gemini-webhook","version":"1.0.3","private":true,"main":"index.js","engines":{"node":">=20"}}
+{
+  "name": "alice-gemini-webhook",
+  "version": "1.0.0",
+  "description": "Alice webhook with Gemini AI",
+  "private": true
+}
